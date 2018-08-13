@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="capability-microservices-config-server" />
+        <module name="chicken" />
+        <module name="demo" />
+        <module name="egg" />
+        <module name="eureka-server" />
+        <module name="farm" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="capability-microservices-config-server" target="1.8" />
+      <module name="capability-ms-customer" target="1.8" />
+      <module name="capability-ms-localization" target="1.8" />
+      <module name="chicken" target="1.8" />
+      <module name="curso-eureka" target="1.8" />
+      <module name="curso-ms-paises" target="1.8" />
+      <module name="demo" target="1.8" />
+      <module name="egg" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+      <module name="farm" target="1.8" />
+      <module name="hello-ms-clientgreeting" target="1.8" />
+      <module name="hello-ms-greeting" target="1.8" />
+      <module name="hello-ms-registration" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

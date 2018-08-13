@@ -1,0 +1,8 @@
+2018-08-10 11:48:15 DEBUG cache:44 - Couldn't find template in cache for "error.ftl"("en_US", UTF-8, parsed); will try to load it.
+2018-08-10 11:48:15 DEBUG cache:44 - TemplateLoader.findTemplateSource("error_en_US.ftl"): Not found
+2018-08-10 11:48:15 DEBUG cache:44 - TemplateLoader.findTemplateSource("error_en.ftl"): Not found
+2018-08-10 11:48:15 DEBUG cache:44 - TemplateLoader.findTemplateSource("error.ftl"): Not found
+2018-08-10 11:49:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("error_en_US.ftl"): Not found
+2018-08-10 11:49:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("error_en.ftl"): Not found
+2018-08-10 11:49:01 DEBUG cache:44 - TemplateLoader.findTemplateSource("error.ftl"): Not found
+2018-08-10 11:49:01 DEBUG cache:44 - "error.ftl"("en_US", UTF-8, parsed) no source found.

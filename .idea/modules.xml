@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/capability-microservices-config-server.iml" filepath="$PROJECT_DIR$/eureka-server/capability-microservices-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chicken/chicken.iml" filepath="$PROJECT_DIR$/chicken/chicken.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/egg/egg.iml" filepath="$PROJECT_DIR$/egg/egg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/farm/farm.iml" filepath="$PROJECT_DIR$/farm/farm.iml" />
+    </modules>
+  </component>
+</project>

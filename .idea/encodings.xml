@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/chicken" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/egg" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/farm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hello-ms-registration/hello-ms-clientgreeting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hello-ms-registration/hello-ms-greeting" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../hello-ms-registration/hello-ms-registration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../STS Workspace/curso-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../STS Workspace/curso-ms-paises" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/CapabilityJava/capability-microservices-config-server-master/capability-microservices-config-server-master" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/CapabilityJava/capability-ms-customer-master/capability-ms-customer-master" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/CapabilityJava/capability-ms-localization-master/capability-ms-localization-master" charset="UTF-8" />
+  </component>
+</project>
