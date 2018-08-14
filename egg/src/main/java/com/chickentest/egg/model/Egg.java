@@ -8,16 +8,15 @@ public class Egg {
     @GeneratedValue(strategy= GenerationType.AUTO)
     private Long id;
 
-    @ManyToOne
-    @JoinColumn(name="chicken_id")
-    private Chicken chicken;
+
+    private Long chickenId;
 
 
     public Egg(){}
 
-    public Egg(Long id, Chicken chicken) {
+    public Egg(Long id, Long chickenId) {
         this.id = id;
-        this.chicken=chicken;
+        this.chickenId=chickenId;
     }
 
     public Long getId() {
@@ -28,10 +27,10 @@ public class Egg {
         this.id = id;
     }
 
-    public Chicken getChicken(){
-        return this.chicken;
+    public Long getChicken(){
+        return this.chickenId;
     }
-    public void setChicken(Chicken chicken){
-        this.chicken=chicken;
+    public void setChicken(Long chickenId){
+        this.chickenId=chickenId;
     }
 }
