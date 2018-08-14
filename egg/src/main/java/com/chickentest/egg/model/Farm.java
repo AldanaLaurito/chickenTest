@@ -1,4 +1,4 @@
-package com.chickentest.chicken.model;
+package com.chickentest.egg.model;
 
 import javax.persistence.*;
 import java.util.Set;
