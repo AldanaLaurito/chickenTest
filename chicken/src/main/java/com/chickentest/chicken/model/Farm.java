@@ -10,13 +10,13 @@ public class Farm {
     private Long id;
 
     @OneToMany(mappedBy="farm", fetch=FetchType.EAGER, cascade = CascadeType.ALL)
-    private Set<Chicken> chickens;
+    private Set<Long> chickensId;
 
     public Farm(){}
 
-    public Farm(Long id, Set<Chicken> chickens) {
+    public Farm(Long id, Set<Long> chickens) {
         this.id = id;
-        this.chickens=chickens;
+        this.chickensId=chickens;
     }
 
     public Long getId() {
@@ -27,11 +27,11 @@ public class Farm {
         this.id = id;
     }
 
-    public Set<Chicken> getChickens() {
-        return chickens;
+    public Set<Long> getChickens() {
+        return this.chickensId;
     }
 
-    public void setChickens(Set<Chicken> chickens) {
-        this.chickens = chickens;
+    public void setChickens(Set<Long> chickens) {
+        this.chickensId = chickens;
     }
 }
